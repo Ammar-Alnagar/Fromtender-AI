@@ -1,13 +1,8 @@
-# Fromtender-AI
-Quick Frontend designer AI that writes quick html and CSS, meant as a prototype for a bigger project
-
 
 **README.md**
 ```markdown
 # Groq Code Assistant 🚀💻
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
 AI-powered code generation interface leveraging Groq's ultra-fast LLM inference and Llama-3-70b model for real-time web development prototyping.
 
