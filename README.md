@@ -1,5 +1,3 @@
-
-**README.md**
 ```markdown
 # Groq Code Assistant 🚀💻
 
